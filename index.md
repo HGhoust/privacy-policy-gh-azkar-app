@@ -16,7 +16,7 @@
 Удалить приложение, чтобы стереть все локальные данные.
 Связаться с нами для уточнения любых вопросов о конфиденциальности.
 6. Изменения в Политике конфиденциальности
-Мы можем обновлять эту политику. Актуальная версия всегда доступна по адресу: [https://github.com/HGhoust/privacy-policy-gh-azkar-app].
+Мы можем обновлять эту политику. Актуальная версия всегда доступна по адресу: [[https://github.com/HGhoust/privacy-policy-gh-azkar-app](https://hghoust.github.io/privacy-policy-gh-azkar-app/)].
 7. Контакты
 Если у вас есть вопросы или предложения, свяжитесь с нами: Электронная почта: [abdulhalikyusupov@gmail.com](mailto:abdulhalikyusupov@gmail.com?subject=Вопрос по Политике конфиденциальности GH Azkar)
 Спасибо, что выбрали GH Azkar!
@@ -53,7 +53,7 @@ Contact us if you have any questions regarding privacy.
 
 6. Changes to This Privacy Policy
 We may update this policy. The current version is always available at:
-https://github.com/HGhoust/privacy-policy-gh-azkar-app
+[https://github.com/HGhoust/privacy-policy-gh-azkar-app](https://hghoust.github.io/privacy-policy-gh-azkar-app/)
 
 7. Contact
 If you have any questions or suggestions, feel free to contact us:
